@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * main - check the code
+ * main- simple program that returns an integer value
  *
- * Return: Always 0.
+ * Return: Always a[2] = 98.
  */
 int main(void)
 {
+
 	int n;
 	int a[5];
 	int *p;
